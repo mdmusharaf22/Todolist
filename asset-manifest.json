@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Todolist/static/css/main.a23490c0.css",
+    "main.js": "/Todolist/static/js/main.4cce8841.js",
+    "static/media/sunset-silhouettes-trees-mountains-generative-ai.jpg": "/Todolist/static/media/sunset-silhouettes-trees-mountains-generative-ai.4fbcefed6cf1561b2d62.jpg",
+    "index.html": "/Todolist/index.html",
+    "main.a23490c0.css.map": "/Todolist/static/css/main.a23490c0.css.map",
+    "main.4cce8841.js.map": "/Todolist/static/js/main.4cce8841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23490c0.css",
+    "static/js/main.4cce8841.js"
+  ]
+}
